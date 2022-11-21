@@ -11,6 +11,9 @@ Google Drive URL：👇
 https://drive.google.com/drive/folders/1CyED07CKQt_6PeuIDxunc9QcUsYH68bZ
 
 usp=share_link
+Github compresses the video, to obtain clearer video:<br>
+🔗：https://youtu.be/UhOayuh3Dtw
+
 
 
 
